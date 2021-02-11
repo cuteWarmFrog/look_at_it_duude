@@ -1,4 +1,4 @@
-# or_vishe_gor
+# look_at_it_duude
 Here is an example of cute hardcoding which I found in Petrozavodsk state university in 2021 winter session.
 That html file is a way their physics teacher to take exams automatically.
 The hilarious part starts when you realise there is no backend, it works offline, so...  answers must be in the code!
